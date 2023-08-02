@@ -16,5 +16,6 @@ The structure will carry the screen
 
 ![Screenshot 2023-08-02 032315](https://github.com/LOCO1S/design/assets/138608097/5eece7f5-8406-456d-80d3-34ba9b4063d1)
 
+All parts of the robot
 
 ![Screenshot 2023-08-02 031745](https://github.com/LOCO1S/design/assets/138608097/d596dbaa-cec7-40f9-8dbe-a6097656e6f9)
